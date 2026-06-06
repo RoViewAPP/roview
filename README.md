@@ -1,4 +1,4 @@
-# RoView
+# RoView Extension Project
 
 Community reviews and ratings for Roblox games.
 
